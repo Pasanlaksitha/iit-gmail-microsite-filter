@@ -1,5 +1,3 @@
----
-
 # 📧 IIT Gmail Microsite SPAM Filter (Google Apps Script)
 
 ![Made for IIT Students](https://img.shields.io/badge/IIT-Student%20Tool-blue)
